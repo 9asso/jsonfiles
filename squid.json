@@ -1,5 +1,4 @@
-{
-  "cast" : {
+"cast" : {
     "person0" : {
       "img" : "https://firebasestorage.googleapis.com/v0/b/tokkingheads-portrait-video.appspot.com/o/cast%2Fcast_doll.png?alt=media&token=c00f0a55-33d6-4f00-ba43-817737e1538c",
       "name" : "Doll",
@@ -84,14 +83,4 @@
       "voice" : "https://firebasestorage.googleapis.com/v0/b/tokkingheads-portrait-video.appspot.com/o/voice%2Fdoll_voice.mp3?alt=media&token=c6fc564e-8acb-4cdb-8c5e-2ce54f5f315d",
       "pin" : false
     }
-  },
-  "data" : {
-    "active_ads" : true,
-    "ad_admob_ban" : "ca-app-pub-7843522840036220/2567457667",
-    "ad_admob_int" : "ca-app-pub-7843522840036220/3305824262",
-    "ad_admob_native" : "ca-app-pub-3940256099942544/1044960115",
-    "ad_admob_rewarded" : "ca-app-pub-7843522840036220/8175007563",
-    "one_signal_app_id" : "1db5d220-6b7d-4f15-a3d6-b6ddd43fdd02",
-    "pin_ad" : 1
   }
-}
