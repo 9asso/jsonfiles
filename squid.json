@@ -47,7 +47,7 @@
           "name" : "Heo Sung-tae",
           "video" : "https://firebasestorage.googleapis.com/v0/b/tokkingheads-portrait-video.appspot.com/o/voice%2Fdoll_voice.mp3?alt=media&token=c6fc564e-8acb-4cdb-8c5e-2ce54f5f315d",
           "voice" : "https://firebasestorage.googleapis.com/v0/b/tokkingheads-portrait-video.appspot.com/o/voice%2Fdoll_voice.mp3?alt=media&token=c6fc564e-8acb-4cdb-8c5e-2ce54f5f315d",
-          "pin" : "true"
+          "pin" : "false"
         },
         {
           "img" : "https://firebasestorage.googleapis.com/v0/b/tokkingheads-portrait-video.appspot.com/o/cast%2Fcast_f.png?alt=media&token=a745a555-1d6c-469a-a3d1-9343755f3fd6",
@@ -75,7 +75,7 @@
           "name" : "Red Shooter",
           "video" : "https://firebasestorage.googleapis.com/v0/b/tokkingheads-portrait-video.appspot.com/o/voice%2Fdoll_voice.mp3?alt=media&token=c6fc564e-8acb-4cdb-8c5e-2ce54f5f315d",
           "voice" : "https://firebasestorage.googleapis.com/v0/b/tokkingheads-portrait-video.appspot.com/o/voice%2Fdoll_voice.mp3?alt=media&token=c6fc564e-8acb-4cdb-8c5e-2ce54f5f315d",
-          "pin" : "false"
+          "pin" : "true"
         },
         {
           "img" : "https://firebasestorage.googleapis.com/v0/b/tokkingheads-portrait-video.appspot.com/o/cast%2Fcast_j.png?alt=media&token=d254b637-b430-40bb-9d03-eb41e2a37aac",
