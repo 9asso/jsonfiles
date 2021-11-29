@@ -83,8 +83,8 @@
         {
           "img" : "https://firebasestorage.googleapis.com/v0/b/tokkingheads-portrait-video.appspot.com/o/cast%2Fcast_i.jpeg?alt=media&token=8383357a-267c-48fd-9b68-d3b4ca2e2ead",
           "name" : "Red Shooter",
-          "video" : "https://firebasestorage.googleapis.com/v0/b/tokkingheads-portrait-video.appspot.com/o/voice%2Fdoll_voice.mp3?alt=media&token=c6fc564e-8acb-4cdb-8c5e-2ce54f5f315d",
-          "voice" : "https://firebasestorage.googleapis.com/v0/b/tokkingheads-portrait-video.appspot.com/o/voice%2Fdoll_voice.mp3?alt=media&token=c6fc564e-8acb-4cdb-8c5e-2ce54f5f315d",
+          "video" : "https://github.com/9asso/jsonfiles/blob/main/pexels.mp4?raw=true",
+          "voice" : "https://github.com/9asso/jsonfiles/blob/main/pexels.mp4?raw=true",
           "pin" : "true",
           "stories" : "https://pyxis.nymag.com/v1/imgs/566/671/d0d66bc775b3e6a0ebb47287fba55e3222-SquidGame-Unit-106-35556.rvertical.w330.jpg;ad;https://i.pinimg.com/736x/06/06/32/0606325200df3ccca5e41dbe480805c5.jpg;https://media.glamour.de/glamour/-lCxw_bmUNZYVQ/c_limit,w_1200,h_1800,q_80/2021/10/squidgame-hoch-jpg-6156cb0c168c7.jpg"
         },
