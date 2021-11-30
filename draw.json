@@ -2,7 +2,9 @@
     "ads" : [
         {
           "ad_admob_ban" : "ca-app-pub-3940256099942544/6300978111",
-          "ad_admob_int" : "ca-app-pub-3940256099942544/1033173712"
+          "ad_admob_int" : "ca-app-pub-3940256099942544/1033173712",
+          "ad_max_ban" : "interstitial_id",
+          "ad_max_int" : "interstitial_id"
         }
     ]
 }
