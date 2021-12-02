@@ -3,8 +3,8 @@
         {
           "ad_admob_ban" : "ca-app-pub-3940256099942544/6300978111",
           "ad_admob_int" : "ca-app-pub-3940256099942544/1033173712",
-          "ad_max_ban" : "interstitial_id",
-          "ad_max_int" : "interstitial_id",
+          "ad_max_ban" : "e87f7ac0ffb1cbca",
+          "ad_max_int" : "baf605e53b0c5c9f	",
           "network" : "applovin"
         }
     ]
