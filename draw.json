@@ -5,7 +5,6 @@
           "ad_admob_int" : "ca-app-pub-3940256099942544/1033173712",
           "ad_max_ban" : "interstitial_id",
           "ad_max_int" : "interstitial_id",
-          "ad_max_sdk" : "interstitial_id",
           "network" : "admob"
         }
     ]
