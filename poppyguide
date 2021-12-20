@@ -1,0 +1,11 @@
+{
+    "config" : [
+        {
+          "ad_admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+          "ad_admob_native" : "ca-app-pub-3940256099942544/1033173712",
+          "ad_admob_int" : "ca-app-pub-3940256099942544/1033173712",
+          "ad_admob_rewarded" : "ca-app-pub-3940256099942544/1033173712",
+          "active_admob" : "true"
+        }
+    ]
+}
